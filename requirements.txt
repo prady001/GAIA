@@ -1,0 +1,9 @@
+langchain
+langchain-ollama
+chromadb
+sentence-transformers
+openai
+streamlit
+whisper
+TTS
+pyttsx3
